@@ -1,1 +1,1 @@
-# 30-days-of-javascript-exercises
+# 30 Days of Javascript Exercises
